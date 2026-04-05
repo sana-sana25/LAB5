@@ -79,7 +79,7 @@ Développer une application Android avec deux onglets :
 --- 
 
 * Onglet Distance
-<img width="496" height="746" alt="Screenshot 2026-04-05 181003" src="https://github.com/user-attachments/assets/4dd499e1-3e62-46de-aef7-6a69fa50768b" />
+<img width="455" height="728" alt="Screenshot 2026-04-05 181029" src="https://github.com/user-attachments/assets/c4be3555-49b7-4959-aed9-3089c81b0821" />
 
 ---
 
