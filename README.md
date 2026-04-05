@@ -40,7 +40,7 @@ Développer une application Android avec deux onglets :
 
 ## Formules utilisées
 
-### 🌡 Température
+###  Température
 
 * Celsius → Fahrenheit :
   `F = (1.8 × C) + 32`
@@ -60,7 +60,7 @@ Développer une application Android avec deux onglets :
 
 ---
 
-## ▶️ Lancement
+##  Lancement
 
 1. Ouvrir le projet avec Android Studio
 2. Lancer l’émulateur
@@ -74,7 +74,7 @@ Développer une application Android avec deux onglets :
 ---
 
 * Onglet Température
-  <img width="496" height="746" alt="Screenshot 2026-04-05 181003" src="https://github.com/user-attachments/assets/6184e13d-6aed-4606-accb-de85a211eca8" />
+<img width="496" height="746" alt="Screenshot 2026-04-05 181003" src="https://github.com/user-attachments/assets/6184e13d-6aed-4606-accb-de85a211eca8" />
 
 --- 
 
